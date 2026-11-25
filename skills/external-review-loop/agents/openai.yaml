@@ -1,0 +1,4 @@
+interface:
+  display_name: "External Review Loop"
+  short_description: "Iterate on PR fixes with an external CLI reviewer"
+  default_prompt: "Use $external-review-loop to review this PR and iterate on verified findings."
